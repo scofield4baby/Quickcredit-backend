@@ -1,0 +1,24 @@
+{
+  "name": "quickcredit-backend",
+  "version": "1.0.0",
+  "description": "quick credit loan application backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scofield4baby/Quickcredit-backend.git"
+  },
+  "keywords": [
+    "quick",
+    "credit",
+    "loan"
+  ],
+  "author": "scofield4baby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scofield4baby/Quickcredit-backend/issues"
+  },
+  "homepage": "https://github.com/scofield4baby/Quickcredit-backend#readme"
+}
